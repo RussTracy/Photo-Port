@@ -2,7 +2,7 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://RussTracy.github.io/Photo-Port",
+  "homepage": "http://russtracy.github.io/Photo-Port",
   "dependencies": {
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
